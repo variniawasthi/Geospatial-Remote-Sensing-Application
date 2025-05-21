@@ -1,0 +1,9 @@
+[submodule "repo1"]
+	path = repo1
+	url = https://github.com/swapnilgupta14/geoseg-frontend.git
+[submodule "repo2"]
+	path = repo2
+	url = https://github.com/swapnilgupta14/geoseg-node-backend.git
+[submodule "repo3"]
+	path = repo3
+	url = https://github.com/swapnilgupta14/geoseg-backend-python.git
